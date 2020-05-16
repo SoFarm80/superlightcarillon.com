@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "http://superlightcarillon.com.s3-website-eu-west-1.amazonaws.com/"
 languageCode = "en-us"
 title = "Giova sito carillon"
 # Define how many pages appear per site
