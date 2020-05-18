@@ -15,8 +15,8 @@ theme = "hugo-minimalist-theme"
     site_description = "The awesome SoftFarm"
     location = "Bassano del Grappa"
     # Link custom assets relative to /static
-    avatar = "img/hugo-logo.png"
-    header_background = "img/coffee.jpg"
+    avatar = "img/Giovanna_LOGO_piuma.png"
+    header_background = "img/Balena_Azzurra_Sotto.jpg"
     header_title = "Soft Farm - Morbidi NannAmici"
     copyright = "Powered by [Hugo](http://gohugo.io)."
     custom_css = []
